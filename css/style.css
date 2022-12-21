@@ -8,6 +8,16 @@
 
 /* general */
 
+p{
+    font-size: 20px;
+}
 
+.card h5, .card p{
+    color: rgb(81, 81, 81);
+}
+
+.card{
+    border: 1px solid black;
+}
 
 /* utils */
